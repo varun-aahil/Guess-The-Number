@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/a14b6bc4-2dd5-4f03-99f9-9047a0b67814)![Uploading Screenshot 2024-11-25 153856.png…]()
+![Screenshot 2024-11-25 154040](https://github.com/user-attachments/assets/88ada03a-938d-4cce-9929-853399297767)
+
 **"Guess the Number"** is a classic and simple game where one player thinks of a number, and the other players try to guess it based on hints provided by the first player. Here's how to play:
 
 ### How to Play Guess the Number:
