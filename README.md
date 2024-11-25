@@ -15,9 +15,9 @@
 
 4. **Feedback**:
    - After each guess, the host provides one of the following hints:
-     - "Higher" – the secret number is greater than the guessed number.
-     - "Lower" – the secret number is less than the guessed number.
-     - "Correct" – the player has guessed the right number.
+     - "Too High! Try again" – the secret number is greater than the guessed number.
+     - "Too Low! Try again" – the secret number is less than the guessed number.
+     - "Congratulations, you have guessed the number!" – the player has guessed the right number.
 
 5. **Continue Until Correct**:
    - Players continue guessing, using the hints provided to narrow down the possible numbers. The first player to guess the secret number correctly wins the round.
@@ -35,7 +35,7 @@
 - Player 1 guesses **40**.
   - Host says: "Higher."
 - Player 2 guesses **42**.
-  - Host says: "Correct!" Player 2 wins!
+  - Host says: "Congratulations, you have guessed the number!" 
 
 ### Tips:
 - Start with a wider range to make the game more challenging.
