@@ -29,9 +29,9 @@
 
 - The host selects the number **42**.
 - Player 1 guesses **30**.
-  - Host says: "Higher."
+  - Host says: "Too High! Try again"
 - Player 2 guesses **50**.
-  - Host says: "Too Low! Try Again"
+  - Host says: "Too low! Try again"
 - Player 1 guesses **40**.
   - Host says: "Higher."
 - Player 2 guesses **42**.
